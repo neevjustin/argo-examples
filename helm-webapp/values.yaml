@@ -1,7 +1,5 @@
 appName: myhelmapp
 
-replicas: 5
-
 port: 80
 
 configmap:
